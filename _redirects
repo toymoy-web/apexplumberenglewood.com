@@ -1,3 +1,13 @@
 # Retired location page (Oct 2026 location audit): 301 to the nearest kept area page.
 /service-area/centennial/ /service-area/greenwood-village/ 301
 /service-area/centennial /service-area/greenwood-village/ 301
+
+# Blog slug renames (v11): city added to slug
+/blog/gas-to-heat-pump-water-heater-colorado/ /blog/heat-pump-water-heater-englewood-co/ 301
+/blog/gas-to-heat-pump-water-heater-colorado /blog/heat-pump-water-heater-englewood-co/ 301
+/blog/grease-garbage-disposals-and-sewer-backups/ /blog/grease-disposals-sewer-backups-englewood/ 301
+/blog/grease-garbage-disposals-and-sewer-backups /blog/grease-disposals-sewer-backups-englewood/ 301
+/blog/spring-snowmelt-sump-pumps-little-dry-creek/ /blog/snowmelt-sump-pumps-little-dry-creek-englewood/ 301
+/blog/spring-snowmelt-sump-pumps-little-dry-creek /blog/snowmelt-sump-pumps-little-dry-creek-englewood/ 301
+/blog/tankless-water-heater-sizing-at-altitude/ /blog/tankless-water-heater-sizing-englewood-altitude/ 301
+/blog/tankless-water-heater-sizing-at-altitude /blog/tankless-water-heater-sizing-englewood-altitude/ 301
