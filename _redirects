@@ -1,1 +1,3 @@
-# Intentionally empty. Cloudflare Pages serves slug/index.html natively.
+# Retired location page (Oct 2026 location audit): 301 to the nearest kept area page.
+/service-area/centennial/ /service-area/greenwood-village/ 301
+/service-area/centennial /service-area/greenwood-village/ 301
